@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rayaroun - Aroun
 - 👀 I’m interested in working with all things Python
 - 🌱 I’m currently learning tools to become a Data Engineer
-
-- 📫 How to reach me ...
+- 📫 How to reach me - https://www.linkedin.com/in/ozaroun/
 
 <!---
 rayaroun/rayaroun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
