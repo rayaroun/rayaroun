@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayaroun - Aroun
 - 👀 I’m interested in working with all things Python
-- 🌱 I’m currently lookinf for new opportunities as a Data Engineer
+- 🌱 I’m currently looking for new opportunities as a Data Engineer
 - 📫 How to reach me - https://www.linkedin.com/in/ozaroun/
 
 <!---
